@@ -3,7 +3,7 @@ USB Sound Reactive WLED Controller
 
 ## Features
 
-- USB-C Power supply (max. 3A)
+- USB-C for flashing and power (max. 3A)
 - Small size
 - Cheap components
 - ICS-43434 MEMS Microphone (optional)
