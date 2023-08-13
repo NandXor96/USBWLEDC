@@ -1,16 +1,15 @@
-# ULCSRWLEDC
+# USBWLEDC
 USB Sound Reactive WLED Controller
 
 ## Features
 
-- USB-C Power supply (max. 3A)
+- USB-C for flashing and power (max. 3A)
 - Small size
 - Cheap components
 - ICS-43434 MEMS Microphone (optional)
 - Solder Pads instead of Screw Terminal Blocks
 
-![Rendered picture of pcb, front](https://github.com/NandXor96/USBWLEDC/blob/main/pictures/front.png?raw=true)
-![Rendered picture of pcb, back](https://github.com/NandXor96/USBWLEDC/blob/main/pictures/back.png?raw=true)
+<img src="https://github.com/NandXor96/USBWLEDC/blob/main/images/front.png?raw=true" width="250" height="300" /> <img src="https://github.com/NandXor96/USBWLEDC/blob/main/images/back.png?raw=true" width="250" height="300" />
 
 ## BOM
 
@@ -31,7 +30,7 @@ USB Sound Reactive WLED Controller
 |U2            |3.3V LDO AMS1117-3.3                            |1       |AMS1117-3.3            |C6186      ||
 |U3            |ESP32-WROOM-32 D or E                           |1       |ESP32-WROOM-32         |C701341    |356-ESP32WRM32E132PH|
 
-* You can build it without the microphone. Then you don't need R1, C1 and MK1.
+\* You can build it without the microphone. Then you don't need R1, C1 and MK1.
 
 ## Assembly
 
