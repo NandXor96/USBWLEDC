@@ -1,4 +1,4 @@
-# ULCSRWLEDC
+# USBWLEDC
 USB Sound Reactive WLED Controller
 
 ## Features
