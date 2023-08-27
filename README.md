@@ -37,6 +37,17 @@ USB Sound Reactive WLED Controller
 To assemble the PCB, I recommend using a hot plate or soldering oven for the upper side, and hand-soldering for the ESP32 on the back.
 **Preheat** the PCB before soldering anything by hand and use a **powerful soldering iron**!  
 
+## WLED Config
+
+| Name | Value |
+|------|-------|
+| LED 1 | GPIO 33 |
+| LED 2 | GPIO 32 |
+| Button 0 | GPIO 0 |
+| I2S SD | GPIO 22 |
+| I2S WS | GPIO 23 |
+| I2S SCK | GPIO 21 |
+
 ## Disclaimer
 
 The circuit board provided on this GitHub repository is offered "as is," without any warranties or guarantees of any kind. By accessing and utilizing this circuit board, you acknowledge and agree that you do so at your own risk.
