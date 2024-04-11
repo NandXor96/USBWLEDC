@@ -1,0 +1,28 @@
+{
+    "layout": {
+        "type": "grid",
+        "rows": 2,
+        "cols": 2,
+        "space": "2mm"
+    },
+    "cuts": {
+        "type": "mousebites",
+        "drill": "0.5mm",
+        "spacing": "0.85mm",
+        "offset": "-0.25mm"
+    },
+    "tabs": {
+        "type": "fixed",
+        "width": "4mm",
+        "hcount": 1,
+        "vcount": 1
+    },
+    "framing": {
+        "type": "railslr",
+        "width": "5mm",
+        "space": "2mm"
+    },
+    "post": {
+        "millradius": "1mm"
+    }
+}
