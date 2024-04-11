@@ -12,7 +12,7 @@ USB Sound Reactive WLED Controller
 - Files for 3D printed case
 - Front side can be populated by JLCPCB
 
-<img src="https://github.com/NandXor96/USBWLEDC/blob/main/images/usbwledc_front.png?raw=true" width="250" height="300" /> <img src="https://github.com/NandXor96/USBWLEDC/blob/main/images/usbwledc_back.png?raw=true" width="250" height="300" />
+<img src="https://github.com/NandXor96/USBWLEDC/blob/main/images/usbwledc_front.png?raw=true" width="250" height="300" /> <img src="https://github.com/NandXor96/USBWLEDC/blob/main/images/usbwledc_back.png?raw=true" width="250" height="300" /><img src="https://github.com/NandXor96/USBWLEDC/blob/main/images/usbwledc_real.png?raw=true" width="250" height="300" />
 
 ## Case
 
