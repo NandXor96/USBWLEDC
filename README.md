@@ -1,6 +1,8 @@
 # USBWLEDC
 USB Sound Reactive WLED Controller
 
+<img src="https://github.com/NandXor96/USBWLEDC/blob/main/images/animated.gif?raw=true" width="300" height="300" />
+
 ## Features
 
 - USB-C for flashing and power (max. 3A)
